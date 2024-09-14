@@ -69,8 +69,10 @@ expression (upregulated vs. downregulated), whereas sequential palettes were smo
 progressive changes.
 
 ![Heatmap with Diverging Color Palette](diverging-palette.png)
+*Fig. 1: Heatmap with diverging color palette*
 
 ![Heatmap with Sequential Color Palette](sequential-palette.png)
+*Fig. 2: Heatmap with sequential color palette*
 
 ### Heatmap Visualization with Clustering Variants
 
@@ -79,10 +81,13 @@ samples, aiding in the discovery of gene expression patterns that might correlat
 experimental settings.
 
 ![Heatmap Clustered Genes (Rows) Only](clustered-gene-rows.png)
+*Fig. 3: Heatmap clustered genes(rows) only*
 
 ![Heatmap Clustered Samples (Columns) Only](clustered-samples.png)
+*Fig. 4: Heatmap clustered samples(columns) only*
 
 ![Heatmap Clustered Genes and Samples Together](clustered-gene-and-samples.png)
+*Fig. 5: Heatmap clustered genes and samples together*
 
 ### Subsetting Upregulated and Downregulated Genes
 
@@ -117,6 +122,7 @@ reported for our data:
 | 2.64E-15       | 173    | 3700          | 1.903333977     | Response to organic substance       |
 
 ![Downregulated Genes and Fold Enrichments](down-regulated-genes-and-fold-enrichments.png)
+*Fig. 6: Downregulated genes and fold enrichments*
 
 ### Upregulated Genes and Fold Enrichments
 
@@ -130,6 +136,7 @@ reported for our data:
 | 1.3E-02        | 1      | 48            | 119.1           | Valine leucine and isoleucine degradation |
 
 ![Upregulated Genes and Fold Enrichments](up-regulated-gene-and%20-fold-enrichments.png)
+*Fig. 7: Upregulated genes and fold enrichments*
 ---
 
 ## Visualization of Biological Process Pathways
@@ -140,6 +147,9 @@ plot shows that the cellular developmental process pathway had more genes associ
 however, its significance was lower compared to the animal organ development pathway. Of all the top 5 pathways, the
 response to organic substance pathway carried the lowest significance.
 ![Gene Count and Significance](gene-pathway.png)
+*Fig. 8: Top 5 pathways by gene count and significance. The length of ech stem represents the number of genes associated
+with each pathway, and the size of each point reflects the significance of the pathway(scaled by the negative log10 of
+the p-value)*
 ---
 
 ## Description of the Top 3 Enriched Pathways According to Biological Process
