@@ -137,6 +137,7 @@ reported for our data:
 | 1.3E-02        | 1      | 48            | 119.1           | Valine leucine and isoleucine degradation |
 
 ![Upregulated Genes and Fold Enrichments](up-regulated-gene-and%20-fold-enrichments.png)
+
 *Fig. 7: Upregulated genes and fold enrichments*
 
 ---
@@ -150,6 +151,7 @@ however, its significance was lower compared to the animal organ development pat
 response to organic substance pathway carried the lowest significance.
 
 ![Gene Count and Significance](gene-pathway.png)
+
 *Fig. 8: Top 5 pathways by gene count and significance. The length of ech stem represents the number of genes associated
 with each pathway, and the size of each point reflects the significance of the pathway(scaled by the negative log10 of
 the p-value)*
