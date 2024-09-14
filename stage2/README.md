@@ -137,6 +137,7 @@ reported for our data:
 
 ![Upregulated Genes and Fold Enrichments](up-regulated-gene-and%20-fold-enrichments.png)
 *Fig. 7: Upregulated genes and fold enrichments*
+
 ---
 
 ## Visualization of Biological Process Pathways
@@ -150,6 +151,7 @@ response to organic substance pathway carried the lowest significance.
 *Fig. 8: Top 5 pathways by gene count and significance. The length of ech stem represents the number of genes associated
 with each pathway, and the size of each point reflects the significance of the pathway(scaled by the negative log10 of
 the p-value)*
+
 ---
 
 ## Description of the Top 3 Enriched Pathways According to Biological Process
