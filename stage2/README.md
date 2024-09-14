@@ -3,7 +3,7 @@
 ## Generating Heatmap for Exploring Gene Expression and Downstream Functional Enrichment Analysis of Glioblastoma Dataset
 
 **Contributors:**  
-[List of contributors]
+@Oluwakamiye, @Mojoyin, @Nusrat, @Sapi, @Nooran_Alharty, @Berkay, @Josiah
 
 ---
 
