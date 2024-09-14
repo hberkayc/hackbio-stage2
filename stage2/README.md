@@ -122,6 +122,7 @@ reported for our data:
 | 2.64E-15       | 173    | 3700          | 1.903333977     | Response to organic substance       |
 
 ![Downregulated Genes and Fold Enrichments](down-regulated-genes-and-fold-enrichments.png)
+
 *Fig. 6: Downregulated genes and fold enrichments*
 
 ### Upregulated Genes and Fold Enrichments
@@ -147,6 +148,7 @@ each pathway. The plot also reflects the significance of each pathway through th
 plot shows that the cellular developmental process pathway had more genes associated with it compared to other pathways;
 however, its significance was lower compared to the animal organ development pathway. Of all the top 5 pathways, the
 response to organic substance pathway carried the lowest significance.
+
 ![Gene Count and Significance](gene-pathway.png)
 *Fig. 8: Top 5 pathways by gene count and significance. The length of ech stem represents the number of genes associated
 with each pathway, and the size of each point reflects the significance of the pathway(scaled by the negative log10 of
@@ -170,6 +172,22 @@ the p-value)*
 ---
 
 ## Conclusion
+
+In this study, we utilised heatmap visualisations and functional enrichment analysis to
+investigate gene expression patterns in glioblastoma. By clustering genes and samples,
+we identified distinct groups of co-expressed genes that may correlate with specific
+biological processes or disease mechanisms. Our analysis revealed that upregulated
+genes were largely involved in pathways promoting rapid cell proliferation, such as
+riboflavin and fatty acid metabolism, while downregulated genes were associated with
+transport mechanisms, particularly those linked to drug resistance.
+Furthermore, functional enrichment analysis highlighted key biological processes in
+glioblastoma, including animal organ development, cellular differentiation, and response
+to organic substances. These pathways, particularly those involved in cell development
+and metabolic processes, offer insight into the molecular mechanisms underlying
+glioblastoma progression and potential therapeutic targets.
+This analysis provides a deeper understanding of the gene expression dynamics in
+glioblastoma and offers potential leads for further research into therapeutic interventions
+at disrupting key pathways
 
 ---
 
