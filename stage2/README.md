@@ -68,7 +68,6 @@ This highlighted the significance of color selection, as divergent palettes succ
 expression (upregulated vs. downregulated), whereas sequential palettes were smoother, making it easier to trace
 progressive changes.
 
-
 ![Heatmap with Diverging Color Palette](diverging-palette.png)
 
 ![Heatmap with Sequential Color Palette](sequential-palette.png)
@@ -117,7 +116,7 @@ reported for our data:
 | 2.06E-17       | 145    | 2690          | 2.194251195     | Regulation of developmental process |
 | 2.64E-15       | 173    | 3700          | 1.903333977     | Response to organic substance       |
 
-![Downregulated Genes and Fold Enrichments](path_to_image)
+![Downregulated Genes and Fold Enrichments](down-regulated-genes-and-fold-enrichments.png)
 
 ### Upregulated Genes and Fold Enrichments
 
@@ -130,6 +129,7 @@ reported for our data:
 | 1.3E-02        | 1      | 47            | 121.7           | Pyruvate metabolism                       |
 | 1.3E-02        | 1      | 48            | 119.1           | Valine leucine and isoleucine degradation |
 
+![Upregulated Genes and Fold Enrichments](up-regulated-gene-and%20-fold-enrichments.png)
 ---
 
 ## Visualization of Biological Process Pathways
@@ -139,7 +139,7 @@ each pathway. The plot also reflects the significance of each pathway through th
 plot shows that the cellular developmental process pathway had more genes associated with it compared to other pathways;
 however, its significance was lower compared to the animal organ development pathway. Of all the top 5 pathways, the
 response to organic substance pathway carried the lowest significance.
-
+![Gene Count and Significance](gene-pathway.png)
 ---
 
 ## Description of the Top 3 Enriched Pathways According to Biological Process
