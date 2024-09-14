@@ -68,10 +68,10 @@ This highlighted the significance of color selection, as divergent palettes succ
 expression (upregulated vs. downregulated), whereas sequential palettes were smoother, making it easier to trace
 progressive changes.
 
-![Heatmap with Diverging Color Palette]("")
 
+![Heatmap with Diverging Color Palette](diverging-palette.png)
 
-![Heatmap with Sequential Color Palette](path_to_image)
+![Heatmap with Sequential Color Palette](sequential-palette.png)
 
 ### Heatmap Visualization with Clustering Variants
 
@@ -79,11 +79,11 @@ By clustering the genes, samples, or both, the visualizations highlighted distin
 samples, aiding in the discovery of gene expression patterns that might correlate with specific biological or
 experimental settings.
 
-![Heatmap Clustered Genes (Rows) Only](path_to_image)
+![Heatmap Clustered Genes (Rows) Only](clustered-gene-rows.png)
 
-![Heatmap Clustered Samples (Columns) Only](path_to_image)
+![Heatmap Clustered Samples (Columns) Only](clustered-samples.png)
 
-![Heatmap Clustered Genes and Samples Together](path_to_image)
+![Heatmap Clustered Genes and Samples Together](clustered-gene-and-samples.png)
 
 ### Subsetting Upregulated and Downregulated Genes
 
